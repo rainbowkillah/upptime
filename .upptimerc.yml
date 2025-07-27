@@ -10,8 +10,6 @@ sites:
     url: https://rnbwsmk.live
   - name: HyperPing
     url: https://rnbwsmk.hyperping.app
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
   - name: IPv6
     url: https://test-ipv6.cs.umd.edu
     port: 80
