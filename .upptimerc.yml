@@ -24,7 +24,7 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: HyperPint
+    - title: HyperPing
       href: https://rnbwsmk.hyperping.app
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
