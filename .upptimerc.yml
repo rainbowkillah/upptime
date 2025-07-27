@@ -13,7 +13,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6
-    url: test-ipv6.epic.network
+    url: https://test-ipv6.cs.umd.edu
     port: 80
     check: "tcp-ping"
     ipv6: true
