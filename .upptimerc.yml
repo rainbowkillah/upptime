@@ -13,7 +13,7 @@ sites:
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
   - name: IPv6 test
-    url: forwardemail.net
+    url: test-ipv6.epic.network
     port: 80
     check: "tcp-ping"
     ipv6: true
