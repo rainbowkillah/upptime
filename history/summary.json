@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 441,
-    "timeDay": 441,
-    "timeWeek": 441,
-    "timeMonth": 441,
-    "timeYear": 441,
+    "time": 325,
+    "timeDay": 325,
+    "timeWeek": 325,
+    "timeMonth": 325,
+    "timeYear": 325,
     "dailyMinutesDown": {}
   },
   {
@@ -72,10 +72,10 @@
     "dailyMinutesDown": {}
   },
   {
-    "name": "IPv6 test",
+    "name": "IPv6",
     "url": "test-ipv6.epic.network",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "i-pv6-test",
+    "slug": "i-pv6",
     "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
