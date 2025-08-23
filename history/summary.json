@@ -22,7 +22,7 @@
     "url": "https://rnbwsmk.live",
     "icon": "https://icons.duckduckgo.com/ip3/rnbwsmk.live.ico",
     "slug": "gravatar-profile",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -33,7 +33,9 @@
     "timeWeek": 381,
     "timeMonth": 346,
     "timeYear": 346,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-08-23": 0
+    }
   },
   {
     "name": "HyperPing",
