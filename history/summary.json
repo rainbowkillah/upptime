@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 159,
-    "timeDay": 171,
-    "timeWeek": 194,
+    "timeDay": 147,
+    "timeWeek": 191,
     "timeMonth": 159,
     "timeYear": 159,
     "dailyMinutesDown": {}
@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/rnbwsmk.live.ico",
     "slug": "gravatar-profile",
     "status": "up",
-    "uptime": "99.98%",
-    "uptimeDay": "99.38%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "99.98%",
-    "time": 344,
-    "timeDay": 350,
-    "timeWeek": 370,
-    "timeMonth": 344,
-    "timeYear": 344,
-    "dailyMinutesDown": {
-      "2025-08-23": 9
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 340,
+    "timeDay": 203,
+    "timeWeek": 350,
+    "timeMonth": 340,
+    "timeYear": 340,
+    "dailyMinutesDown": {}
   },
   {
     "name": "HyperPing",
@@ -48,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 189,
-    "timeDay": 188,
-    "timeWeek": 189,
-    "timeMonth": 189,
-    "timeYear": 189,
+    "time": 191,
+    "timeDay": 229,
+    "timeWeek": 191,
+    "timeMonth": 191,
+    "timeYear": 191,
     "dailyMinutesDown": {}
   }
 ]
