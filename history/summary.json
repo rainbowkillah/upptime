@@ -40,19 +40,19 @@
     "url": "https://rnbwsmk.hyperping.app",
     "icon": "https://icons.duckduckgo.com/ip3/rnbwsmk.hyperping.app.ico",
     "slug": "hyper-ping",
-    "status": "down",
-    "uptime": "99.83%",
-    "uptimeDay": "94.97%",
-    "uptimeWeek": "99.28%",
-    "uptimeMonth": "99.83%",
-    "uptimeYear": "99.83%",
+    "status": "up",
+    "uptime": "99.80%",
+    "uptimeDay": "94.09%",
+    "uptimeWeek": "99.16%",
+    "uptimeMonth": "99.80%",
+    "uptimeYear": "99.80%",
     "time": 189,
-    "timeDay": 173,
+    "timeDay": 177,
     "timeWeek": 193,
     "timeMonth": 189,
     "timeYear": 189,
     "dailyMinutesDown": {
-      "2025-08-26": 48,
+      "2025-08-26": 61,
       "2025-08-25": 24
     }
   }
