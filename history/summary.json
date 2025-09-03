@@ -40,7 +40,7 @@
     "url": "https://rnbwsmk.hyperping.app",
     "icon": "https://icons.duckduckgo.com/ip3/rnbwsmk.hyperping.app.ico",
     "slug": "hyper-ping",
-    "status": "up",
+    "status": "down",
     "uptime": "99.73%",
     "uptimeDay": "98.56%",
     "uptimeWeek": "99.25%",
@@ -52,6 +52,7 @@
     "timeMonth": 191,
     "timeYear": 189,
     "dailyMinutesDown": {
+      "2025-09-03": 0,
       "2025-09-02": 21,
       "2025-09-01": 22,
       "2025-08-30": 33,
