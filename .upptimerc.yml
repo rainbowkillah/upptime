@@ -8,8 +8,6 @@ sites:
     url: https://rainbowsmokeofficial.com
   - name: Gravatar Profile
     url: https://rnbwsmk.live
-  - name: Dev Playground
-    url:https://mrrainbowsmoke.com
   - name: HyperPing
     url: https://rnbwsmk.hyperping.app
 assignees: # Users to assign downtime issues (optional)
