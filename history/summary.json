@@ -4,7 +4,7 @@
     "url": "https://rainbowsmokeofficial.com",
     "icon": "https://icons.duckduckgo.com/ip3/rainbowsmokeofficial.com.ico",
     "slug": "main-domain",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 143,
     "timeMonth": 168,
     "timeYear": 164,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-10-01": 0
+    }
   },
   {
     "name": "Gravatar Profile",
