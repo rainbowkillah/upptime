@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/rainbowsmokeofficial.com.ico",
     "slug": "main-domain",
     "status": "down",
-    "uptime": "97.20%",
+    "uptime": "97.17%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "72.89%",
-    "uptimeMonth": "93.76%",
-    "uptimeYear": "97.20%",
+    "uptimeWeek": "72.58%",
+    "uptimeMonth": "93.69%",
+    "uptimeYear": "97.17%",
     "time": 164,
     "timeDay": 0,
     "timeWeek": 128,
     "timeMonth": 168,
     "timeYear": 164,
     "dailyMinutesDown": {
-      "2025-10-03": 67,
+      "2025-10-03": 98,
       "2025-10-02": 1440,
       "2025-10-01": 1225
     }
