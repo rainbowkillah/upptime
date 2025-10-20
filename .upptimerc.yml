@@ -17,7 +17,8 @@ sites:
   - name: Developer Domain
     url: https://mrrainbowsmoke.com
   - name: HyperPing
-    url: https://rnbwsmk.hyperping.app
+    url: https://hc.hyperping.io/tok_uVjRU8AOnzH9UOGFQYX8zLFu
+    method: POST
 assignees: # Users to assign downtime issues (optional)
   - rainbowkillah
 
