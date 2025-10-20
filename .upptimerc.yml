@@ -6,6 +6,8 @@ user-agent: rainbowkillah
 sites:
   - name: Main Domain
     url: https://rainbowsmokeofficial.com
+  - name: Home Network
+    url: http://rnbwsmk.access.ly
   - name: Gravatar Profile
     url: https://rnbwsmk.live
   - name: Developer Domain
