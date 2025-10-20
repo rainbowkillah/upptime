@@ -7,7 +7,9 @@ sites:
   - name: Main Domain
     url: https://rainbowsmokeofficial.com
   - name: Home Network
-    url: https://rnbwsmk.access.ly:8443
+    check: "tcp-ping"
+    url: https://rnbwsmk.access.ly
+    port: 8443
   - name: Gravatar Profile
     url: https://rnbwsmk.live
   - name: Developer Domain
