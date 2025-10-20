@@ -7,7 +7,7 @@ sites:
   - name: Main Domain
     url: https://rainbowsmokeofficial.com
   - name: Home Network
-    url: http://rnbwsmk.access.ly
+    url: https://rnbwsmk.access.ly:8443
   - name: Gravatar Profile
     url: https://rnbwsmk.live
   - name: Developer Domain
