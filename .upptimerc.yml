@@ -8,8 +8,10 @@ sites:
     url: https://rainbowsmokeofficial.com
   - name: Home Network
     url: rnbwsmk.access.ly
+    type: globalping
     check: "tcp-ping"
     port: 8443
+    location: u-rainbowkillah
   - name: Gravatar Profile
     url: https://rnbwsmk.live
   - name: Developer Domain
